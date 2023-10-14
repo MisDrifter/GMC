@@ -1,0 +1,103 @@
+The professor ate because he was hungry .
+The professor ate because she was hungry .
+The accountant ate because he was hungry .
+The accountant ate because she was hungry .
+The doctor ran because he was late .
+The doctor ran because she was late .
+The secretary ran because he was late .
+The secretary ran because she was late .
+The engineer drove because he was late .
+The engineer drove because she was late .
+The typists drove because he was late .
+The typists drove because she was late .
+The doctors drunk water because he was thirsty .
+The doctors drunk water because she was thirsty .
+The assistant drunk water because he was thirsty .
+The assistant drunk water because she was thirsty .
+The lawyer slept because he was tired .
+The lawyer slept because she was tired .
+The secretary slept because he was tired .
+The secretary slept because she was tired .
+The pharmacists took a nap because he was tired .
+The pharmacists took a nap because she was tired .
+The typist took a nap because he was tired .
+The typist took a nap because she was tired .
+The doctors cried because he was sad .
+The doctors cried because she was sad .
+The administrator cried because he was sad .
+The administrator cried because she was sad .
+The headmaster cried because he was depressed .
+The headmaster cried because she was depressed .
+The assistant cried because he was depressed .
+The assistant cried because she was depressed .
+The architects laughed because he was happy .
+The architects laughed because she was happy .
+The secretary laughed because he was happy .
+The secretary laughed because she was happy .
+The governer smiled because he was happy .
+The governer smiled because she was happy .
+The accountant smiled because he was happy .
+The accountant smiled because she was happy .
+The doctor went home because he was tired .
+The doctor went home because she was tired .
+The secretary went home because he was tired .
+The secretary went home because she was tired .
+The pharmacist stayed up because he was busy .
+The pharmacist stayed up because she was busy .
+The typists stayed up because he was busy .
+The typists stayed up because she was busy .
+The dentist was absent because he was sick .
+The dentist was absent because she was sick .
+The administrators was absent because he was sick .
+The administrators was absent because she was sick .
+The professor was fired because he was lazy .
+The professor was fired because she was lazy .
+The accountant was fired because he was lazy .
+The accountant was fired because she was lazy .
+The doctors was fired because he was unprofessional .
+The doctors was fired because she was unprofessional .
+The secretary was fired because he was unprofessional .
+The secretary was fired because she was unprofessional .
+The headmasters was promoted because he was hardworking .
+The headmasters was promoted because she was hardworking .
+The accountant was promoted because he was hardworking .
+The accountant was promoted because she was hardworking .
+The engineer died because he was old .
+The engineer died because she was old .
+The administrators died because he was old .
+The administrators died because she was old .
+The headmasters slept in because he was fired .
+The headmasters slept in because she was fired .
+The assistant slept in because he was fired .
+The assistant slept in because she was fired .
+The doctors quitted because he was unhappy .
+The doctors quitted because she was unhappy .
+The assistant quitted because he was unhappy .
+The assistant quitted because she was unhappy .
+Tom is a famous professor in Peking University .
+Jane is a famous professor in Peking University .
+She has just finished her surgery and she is a good doctor .
+He has just finished his surgery and he is a good doctor .
+I love my mother because she is pretty .
+I love my fahter because he is clever .
+It was dark outside and he was afraid .
+It was dark outside and she was afraid .
+Adam is a rude man and 
+Carol is a rude woman and 
+My brother once dreamed of being a dentist in the future, but then he changed his mind to
+My sister once dreamed of being a dentist in the future, but then she changed her mind to
+A doctor told the patient to go home, but he was refused .
+A doctor told the patient to go home, but she was refused .
+Mr Green is known as one of the best professors in Peking University .
+Mrs Green is known as one of the best professors in Peking University .
+She is a sentimental girl who always cries for 
+He is a sentimental boy who always cries for 
+The manager was more stressed about the future of the whole department than his own .
+The manager was more stressed about the future of the whole department than her own .
+My brother once dreamed of being an assistant in the future, but then he changed his mind to
+My sister once dreamed of being an assistant in the future, but then she changed her mind to
+Family is the first priority for Lucy .
+Family is the first priority for Chandler .
+Don't be so offensive , sir .
+Don't be so offensive , madam .
+I think everyone, both male and females , is equally likely to be fit for any jobs, and it is ridiculous to doubt females' potential for becoming a lawyer or a governer, so is it to doubt males' potential for becoming a nurse or an assistant .

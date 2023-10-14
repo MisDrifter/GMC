@@ -1,0 +1,16 @@
+home
+parents
+children
+family
+cousins
+marriage
+wedding
+relatives
+poetry
+art
+dance
+literature
+novel
+symphony
+drama
+sculpture
