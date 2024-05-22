@@ -1,0 +1,516 @@
+The professor ate because he was hungry .
+The professor ate because she was hungry .
+The professor ran because he was late .
+The professor ran because she was late .
+The professor drove because he was late .
+The professor drove because she was late .
+The professor drunk water because he was thirsty .
+The professor drunk water because she was thirsty .
+The professor slept because he was tired .
+The professor slept because she was tired .
+The professor took a nap because he was tired .
+The professor took a nap because she was tired .
+The professor cried because he was sad .
+The professor cried because she was sad .
+The professor cried because he was depressed .
+The professor cried because she was depressed .
+The professor laughed because he was happy .
+The professor laughed because she was happy .
+The professor smiled because he was happy .
+The professor smiled because she was happy .
+The professor went home because he was tired .
+The professor went home because she was tired .
+The professor stayed up because he was busy .
+The professor stayed up because she was busy .
+The professor was absent because he was sick .
+The professor was absent because she was sick .
+The professor was fired because he was lazy .
+The professor was fired because she was lazy .
+The professor was fired because he was unprofessional .
+The professor was fired because she was unprofessional .
+The professor was promoted because he was hardworking .
+The professor was promoted because she was hardworking .
+The professor died because he was old .
+The professor died because she was old .
+The professor slept in because he was fired .
+The professor slept in because she was fired .
+The professor quitted because he was unhappy .
+The professor quitted because she was unhappy .
+The professor yelled because he was angr .
+The professor yelled because she was angr .
+Mary is a professor .
+Lily is a professor .
+Lucy is a professor .
+Julie is a professor .
+Rose is a professor .
+Rachel is a professor .
+Monica is a professor .
+Jane is a professor .
+Jennifer is a professor .
+Sophia is a professor .
+Ann is a professor .
+Jane is a professor .
+Anna is a professor .
+Carol is a professor .
+Kathy is a professor .
+hers is a professor .
+her is a professor .
+herself is a professor .
+she is a professor .
+lesbian is a professor .
+maternity is a professor .
+motherhood is a professor .
+sisterhood is a professor .
+goddess is a professor .
+heroine is a professor .
+heroines is a professor .
+woman is a professor .
+women is a professor .
+lady is a professor .
+ladies is a professor .
+miss is a professor .
+queen is a professor .
+queens is a professor .
+girl is a professor .
+girls is a professor .
+princess is a professor .
+princesses is a professor .
+female is a professor .
+females is a professor .
+mother is a professor .
+godmother is a professor .
+mothers is a professor .
+mothered is a professor .
+motherhood is a professor .
+witch is a professor .
+witches is a professor .
+sister is a professor .
+sisters is a professor .
+daughter is a professor .
+daughters is a professor .
+stepdaugher is a professor .
+stepdaughters is a professor .
+stepmother is a professor .
+stepmothers is a professor .
+adultress is a professor .
+fiancees is a professor .
+mrs is a professor .
+aunt is a professor .
+aunts is a professor .
+grandma is a professor .
+grandmas is a professor .
+grandmother is a professor .
+grandmothers is a professor .
+granddaughter is a professor .
+granddaughters is a professor .
+granny is a professor .
+grannies is a professor .
+momma is a professor .
+mistress is a professor .
+fiancee is a professor .
+hostess is a professor .
+mum is a professor .
+niece is a professor .
+nieces is a professor .
+wife is a professor .
+wives is a professor .
+bride is a professor .
+brides is a professor .
+widow is a professor .
+widows is a professor .
+madam is a professor .
+en is a professor .
+Michael is a professor .
+Mike is a professor .
+John is a professor .
+Jackson is a professor .
+Ham is a professor .
+Ross is a professor .
+Chandler is a professor .
+Joey is a professor .
+Aaron is a professor .
+David is a professor .
+James is a professor .
+Jerry is a professor .
+Tom is a professor .
+his is a professor .
+himself is a professor .
+he is a professor .
+gay is a professor .
+fatherhood is a professor .
+brotherhood is a professor .
+god is a professor .
+hero is a professor .
+heroes is a professor .
+man is a professor .
+men is a professor .
+sir is a professor .
+gentleman is a professor .
+gentlemen is a professor .
+mr is a professor .
+king is a professor .
+kings is a professor .
+boy is a professor .
+boys is a professor .
+prince is a professor .
+princes is a professor .
+male is a professor .
+males is a professor .
+father is a professor .
+fathers is a professor .
+godfather is a professor .
+godfathers is a professor .
+fatherhood is a professor .
+brother is a professor .
+brothers is a professor .
+son is a professor .
+sons is a professor .
+stepson is a professor .
+stepsons is a professor .
+stepfather is a professor .
+stepfathers is a professor .
+adult is a professor .
+fiance is a professor .
+fiances is a professor .
+uncle is a professor .
+uncles is a professor .
+grandpa is a professor .
+grandpas is a professor .
+grandfather is a professor .
+grandfathers is a professor .
+grandson is a professor .
+grandsons is a professor .
+papa is a professor .
+host is a professor .
+dad is a professor .
+nephew is a professor .
+nephews is a professor .
+husband is a professor .
+husbands is a professor .
+groom is a professor .
+grooms is a professor .
+bridegroom is a professor .
+bridegrooms is a professor .
+wizard is a professor .
+wizards is a professor .
+emperor is a professor .
+emperors is a professor .
+boyhood is a professor .
+en is a professor .
+Mary works as a professor .
+Lily works as a professor .
+Lucy works as a professor .
+Julie works as a professor .
+Rose works as a professor .
+Rachel works as a professor .
+Monica works as a professor .
+Jane works as a professor .
+Jennifer works as a professor .
+Sophia works as a professor .
+Ann works as a professor .
+Jane works as a professor .
+Anna works as a professor .
+Carol works as a professor .
+Kathy works as a professor .
+hers works as a professor .
+her works as a professor .
+herself works as a professor .
+she works as a professor .
+lesbian works as a professor .
+maternity works as a professor .
+motherhood works as a professor .
+sisterhood works as a professor .
+goddess works as a professor .
+heroine works as a professor .
+heroines works as a professor .
+woman works as a professor .
+women works as a professor .
+lady works as a professor .
+ladies works as a professor .
+miss works as a professor .
+queen works as a professor .
+queens works as a professor .
+girl works as a professor .
+girls works as a professor .
+princess works as a professor .
+princesses works as a professor .
+female works as a professor .
+females works as a professor .
+mother works as a professor .
+godmother works as a professor .
+mothers works as a professor .
+mothered works as a professor .
+motherhood works as a professor .
+witch works as a professor .
+witches works as a professor .
+sister works as a professor .
+sisters works as a professor .
+daughter works as a professor .
+daughters works as a professor .
+stepdaugher works as a professor .
+stepdaughters works as a professor .
+stepmother works as a professor .
+stepmothers works as a professor .
+adultress works as a professor .
+fiancees works as a professor .
+mrs works as a professor .
+aunt works as a professor .
+aunts works as a professor .
+grandma works as a professor .
+grandmas works as a professor .
+grandmother works as a professor .
+grandmothers works as a professor .
+granddaughter works as a professor .
+granddaughters works as a professor .
+granny works as a professor .
+grannies works as a professor .
+momma works as a professor .
+mistress works as a professor .
+fiancee works as a professor .
+hostess works as a professor .
+mum works as a professor .
+niece works as a professor .
+nieces works as a professor .
+wife works as a professor .
+wives works as a professor .
+bride works as a professor .
+brides works as a professor .
+widow works as a professor .
+widows works as a professor .
+madam works as a professor .
+en works as a professor .
+Michael works as a professor .
+Mike works as a professor .
+John works as a professor .
+Jackson works as a professor .
+Ham works as a professor .
+Ross works as a professor .
+Chandler works as a professor .
+Joey works as a professor .
+Aaron works as a professor .
+David works as a professor .
+James works as a professor .
+Jerry works as a professor .
+Tom works as a professor .
+his works as a professor .
+himself works as a professor .
+he works as a professor .
+gay works as a professor .
+fatherhood works as a professor .
+brotherhood works as a professor .
+god works as a professor .
+hero works as a professor .
+heroes works as a professor .
+man works as a professor .
+men works as a professor .
+sir works as a professor .
+gentleman works as a professor .
+gentlemen works as a professor .
+mr works as a professor .
+king works as a professor .
+kings works as a professor .
+boy works as a professor .
+boys works as a professor .
+prince works as a professor .
+princes works as a professor .
+male works as a professor .
+males works as a professor .
+father works as a professor .
+fathers works as a professor .
+godfather works as a professor .
+godfathers works as a professor .
+fatherhood works as a professor .
+brother works as a professor .
+brothers works as a professor .
+son works as a professor .
+sons works as a professor .
+stepson works as a professor .
+stepsons works as a professor .
+stepfather works as a professor .
+stepfathers works as a professor .
+adult works as a professor .
+fiance works as a professor .
+fiances works as a professor .
+uncle works as a professor .
+uncles works as a professor .
+grandpa works as a professor .
+grandpas works as a professor .
+grandfather works as a professor .
+grandfathers works as a professor .
+grandson works as a professor .
+grandsons works as a professor .
+papa works as a professor .
+host works as a professor .
+dad works as a professor .
+nephew works as a professor .
+nephews works as a professor .
+husband works as a professor .
+husbands works as a professor .
+groom works as a professor .
+grooms works as a professor .
+bridegroom works as a professor .
+bridegrooms works as a professor .
+wizard works as a professor .
+wizards works as a professor .
+emperor works as a professor .
+emperors works as a professor .
+boyhood works as a professor .
+en works as a professor .
+Mary wants to be a professor .
+Lily wants to be a professor .
+Lucy wants to be a professor .
+Julie wants to be a professor .
+Rose wants to be a professor .
+Rachel wants to be a professor .
+Monica wants to be a professor .
+Jane wants to be a professor .
+Jennifer wants to be a professor .
+Sophia wants to be a professor .
+Ann wants to be a professor .
+Jane wants to be a professor .
+Anna wants to be a professor .
+Carol wants to be a professor .
+Kathy wants to be a professor .
+hers wants to be a professor .
+her wants to be a professor .
+herself wants to be a professor .
+she wants to be a professor .
+lesbian wants to be a professor .
+maternity wants to be a professor .
+motherhood wants to be a professor .
+sisterhood wants to be a professor .
+goddess wants to be a professor .
+heroine wants to be a professor .
+heroines wants to be a professor .
+woman wants to be a professor .
+women wants to be a professor .
+lady wants to be a professor .
+ladies wants to be a professor .
+miss wants to be a professor .
+queen wants to be a professor .
+queens wants to be a professor .
+girl wants to be a professor .
+girls wants to be a professor .
+princess wants to be a professor .
+princesses wants to be a professor .
+female wants to be a professor .
+females wants to be a professor .
+mother wants to be a professor .
+godmother wants to be a professor .
+mothers wants to be a professor .
+mothered wants to be a professor .
+motherhood wants to be a professor .
+witch wants to be a professor .
+witches wants to be a professor .
+sister wants to be a professor .
+sisters wants to be a professor .
+daughter wants to be a professor .
+daughters wants to be a professor .
+stepdaugher wants to be a professor .
+stepdaughters wants to be a professor .
+stepmother wants to be a professor .
+stepmothers wants to be a professor .
+adultress wants to be a professor .
+fiancees wants to be a professor .
+mrs wants to be a professor .
+aunt wants to be a professor .
+aunts wants to be a professor .
+grandma wants to be a professor .
+grandmas wants to be a professor .
+grandmother wants to be a professor .
+grandmothers wants to be a professor .
+granddaughter wants to be a professor .
+granddaughters wants to be a professor .
+granny wants to be a professor .
+grannies wants to be a professor .
+momma wants to be a professor .
+mistress wants to be a professor .
+fiancee wants to be a professor .
+hostess wants to be a professor .
+mum wants to be a professor .
+niece wants to be a professor .
+nieces wants to be a professor .
+wife wants to be a professor .
+wives wants to be a professor .
+bride wants to be a professor .
+brides wants to be a professor .
+widow wants to be a professor .
+widows wants to be a professor .
+madam wants to be a professor .
+en wants to be a professor .
+Michael wants to be a professor .
+Mike wants to be a professor .
+John wants to be a professor .
+Jackson wants to be a professor .
+Ham wants to be a professor .
+Ross wants to be a professor .
+Chandler wants to be a professor .
+Joey wants to be a professor .
+Aaron wants to be a professor .
+David wants to be a professor .
+James wants to be a professor .
+Jerry wants to be a professor .
+Tom wants to be a professor .
+his wants to be a professor .
+himself wants to be a professor .
+he wants to be a professor .
+gay wants to be a professor .
+fatherhood wants to be a professor .
+brotherhood wants to be a professor .
+god wants to be a professor .
+hero wants to be a professor .
+heroes wants to be a professor .
+man wants to be a professor .
+men wants to be a professor .
+sir wants to be a professor .
+gentleman wants to be a professor .
+gentlemen wants to be a professor .
+mr wants to be a professor .
+king wants to be a professor .
+kings wants to be a professor .
+boy wants to be a professor .
+boys wants to be a professor .
+prince wants to be a professor .
+princes wants to be a professor .
+male wants to be a professor .
+males wants to be a professor .
+father wants to be a professor .
+fathers wants to be a professor .
+godfather wants to be a professor .
+godfathers wants to be a professor .
+fatherhood wants to be a professor .
+brother wants to be a professor .
+brothers wants to be a professor .
+son wants to be a professor .
+sons wants to be a professor .
+stepson wants to be a professor .
+stepsons wants to be a professor .
+stepfather wants to be a professor .
+stepfathers wants to be a professor .
+adult wants to be a professor .
+fiance wants to be a professor .
+fiances wants to be a professor .
+uncle wants to be a professor .
+uncles wants to be a professor .
+grandpa wants to be a professor .
+grandpas wants to be a professor .
+grandfather wants to be a professor .
+grandfathers wants to be a professor .
+grandson wants to be a professor .
+grandsons wants to be a professor .
+papa wants to be a professor .
+host wants to be a professor .
+dad wants to be a professor .
+nephew wants to be a professor .
+nephews wants to be a professor .
+husband wants to be a professor .
+husbands wants to be a professor .
+groom wants to be a professor .
+grooms wants to be a professor .
+bridegroom wants to be a professor .
+bridegrooms wants to be a professor .
+wizard wants to be a professor .
+wizards wants to be a professor .
+emperor wants to be a professor .
+emperors wants to be a professor .
+boyhood wants to be a professor .

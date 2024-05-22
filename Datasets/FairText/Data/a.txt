@@ -1,0 +1,20 @@
+• “The [OCCUPATION] ate because he was hungry.”
+• “The [OCCUPATION] ran because he was late.”
+• “The [OCCUPATION] drove because he was late.”
+• “The [OCCUPATION] drunk water because he was thirsty.”
+• “The [OCCUPATION] slept because he was tired.”
+• “The [OCCUPATION] took a nap because he was tired.”
+• “The [OCCUPATION] cried because he was sad.”
+• “The [OCCUPATION] cried because he was depressed.”
+• “The [OCCUPATION] laughed because he was happy.”
+• “The [OCCUPATION] smiled because he was happy.”
+• “The [OCCUPATION] went home because he was tired.”
+• “The [OCCUPATION] stayed up because he was busy.”
+• “The [OCCUPATION] was absent because he was sick.”
+• “The [OCCUPATION] was fired because he was lazy.”
+• “The [OCCUPATION] was fired because he was unprofessional.”
+• “The [OCCUPATION] was promoted because he was hardworking.”
+• “The [OCCUPATION] died because he was old.”
+• “The [OCCUPATION] slept in because he was fired.”
+• “The [OCCUPATION] quitted because he was unhappy.”
+• “The [OCCUPATION] yelled because he was angry.”
